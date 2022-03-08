@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Folha de Pagamento</string>
+    <string name="titulo">FOLHA DE PAGAMENTO</string>
+    <string name="inf_sal">Informe seu salário bruto:</string>
+    <string name="num_dep">Informe o número de dependentes:</string>
+    <string name="v_a">Possue vale alimentação ?</string>
+    <string name="v_aS">Sim</string>
+    <string name="v_aN">Não</string>
+    <string name="v_r">Possue vale refeição ?</string>
+    <string name="v_rS">Sim</string>
+    <string name="v_rN">Não</string>
+    <string name="v_t">Possue vale transporte ?</string>
+    <string name="v_tS">Sim</string>
+    <string name="v_tN">Não</string>
+    <string name="calcular">CALCULAR</string>
+    <string name="salB">Salário Bruto:</string>
+    <string name="descontos">Descontos:</string>
+    <string name="salL">Salário Líquido:</string>
+    <string name="irrf">IRRF:</string>
+    <string name="inss">INSS:</string>
+    <string name="plano_saude">Plano de Saude:</string>
+    <string name="per_des">Percentual de Descontos:</string>
+    <string name="v_alimentacao">Vale Alimentação:</string>
+    <string name="v_refeicao">Vale Refeição:</string>
+    <string name="v_transporte">Vale Transporte:</string>
+    <string name="des">Descontos</string>
+    <string name="valida_salb">Insira o salario bruto:</string>
+    <string name="valida_dep">Insira a quantidade de dependentes::</string>
+    <string-array name="lista_planos">
+        <item>Standard</item>
+        <item>Básico</item>
+        <item>Super</item>
+        <item>Master</item>
+    </string-array>
+</resources>
